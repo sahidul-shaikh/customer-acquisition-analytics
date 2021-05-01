@@ -1,6 +1,6 @@
 ## Customer Acquisition Analysis
 
-A Portuguese bank had conducted a telemarketing campaign for a term deposit product somewhere around late 2010. A term deposit is very similar to a fixed deposit, where you deposit money for a fixed period of time.  
+A Portuguese bank had conducted a telemarketing campaign for a term deposit product somewhere around late 2010. A term deposit is very similar to a fixed deposit, where we deposit money for a fixed period of time.  
 
 Through the campaign, the bank had collected data about the prospects' demographics, other financial products they have purchased in the past (loans, deposits, etc.), the number of times they were called, etc. They also recorded the response data, i.e., whether the person had subscribed to the term deposit product, which is the target variable. 
 
@@ -8,8 +8,8 @@ The bank's marketing team wants to launch yet another telemarketing campaign for
 
 - Which prospects are more likely to buy the product (i.e., to respond )?
 - Which attributes determine the propensity to buy a term deposit?  
-- Once you predict the likelihood of response, how many prospects should you target for telemarketing?
-- By how much can you reduce the marketing cost using the model, and how many prospects will you acquire?
+- Once we predict the likelihood of response, how many prospects should we target for telemarketing?
+- By how much can we reduce the marketing cost using the model, and how many prospects will we acquire?
 
 ## Problem and Business Objective
 
@@ -46,7 +46,7 @@ The checkpoints for the assignment are as follows:
 3. Create a data frame with the variables prospect ID, actual response, predicted response, predicted probability of response, duration of the call in seconds and cost of the call
   - While creating the data frame, list the cost of call for each prospect in a new column
 
-4. Find the number of top X% prospects you should target to meet the business objective
+4. Find the number of top X% prospects we should target to meet the business objective
   - Report the average call duration for targeting the top X% prospects.
 
 5. Create a lift chart
