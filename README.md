@@ -25,7 +25,7 @@ The bank's marketing team wants to launch yet another telemarketing campaign for
 
 ## Tasks
 
-To solve the problem, we should to build model without including the variable ‘duration’. Because the prospect data procured by the marketing team does not contain ‘duration’, since the call has not been made yet. This will help us understand the relationship of the other variables with the response.
+To solve the problem, we should build model without including the variable ‘duration’. Because the prospect data procured by the marketing team does not contain ‘duration’, since the call has not been made yet. This will help us understand the relationship of the other variables with the response.
 
 Also, set the business objective to achieving 80% of total responders at the minimum possible cost. The total number of responders is the total number of prospects who responded, from the available data of about 45,000 prospects.
 
@@ -44,7 +44,6 @@ The checkpoints for the assignment are as follows:
   - Find the optimal probability cut-off and report the relevant evaluation metrics
 
 3. Create a data frame with the variables prospect ID, actual response, predicted response, predicted probability of response, duration of the call in seconds and cost of the call
-  - While creating the data frame, list the cost of call for each prospect in a new column
 
 4. Find the number of top X% prospects we should target to meet the business objective
   - Report the average call duration for targeting the top X% prospects.
