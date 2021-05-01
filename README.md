@@ -1,4 +1,4 @@
-## Customer Acquisition Analysis
+## Bank Customer Acquisition Analysis for a Term Deposit Product
 
 A Portuguese bank had conducted a telemarketing campaign for a term deposit product somewhere around late 2010. A term deposit is very similar to a fixed deposit, where we deposit money for a fixed period of time.  
 
